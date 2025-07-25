@@ -1,4 +1,7 @@
-
+const GOOGLE_CLIENT_ID = 
+const GOOGLE_CLIENT_SECRET =
+const REDIRECT_URI = 
+const SCOPE = 
 
 
 
